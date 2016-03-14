@@ -11,7 +11,7 @@
   "author": "BNED",
   "license": "ISC",
   "devDependencies": {
-    "@yuzu/decoratify": ">=0.1.0",
+    "@yuzu/decoratify": "^0.3.0",
     "babel": "~5.6.14",
     "babel-eslint": "^4.0.10",
     "babelify": "~6.1.2",
@@ -43,6 +43,11 @@
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "spak": "^0.22.0",
-    "spak-di": "^0.1.0"
+    "spak-di": "^0.1.0",
+    "@yuzu/storage": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jfkhoury/courseware-proto.git"
   }
 }
