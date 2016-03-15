@@ -10,6 +10,23 @@
   },
   "author": "BNED",
   "license": "ISC",
+  "dependencies": {
+    "@yuzu/storage": "^3.0.0",
+    "classnames": "^2.1.3",
+    "core-decorators": "^0.9.1",
+    "jquery": "^2.1.4",
+    "pubit-as-promised": "~1.1.2",
+    "q": "^1.4.1",
+    "ramda": "^0.19.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "setimmediate": "~1.0.1",
+    "spak": "^0.22.0",
+    "spak-di": "^0.1.0",
+    "storeit-value": ">=0.4.0",
+    "underscore": "^1.7.0",
+    "underscore.string": "~2.3.3"
+  },
   "devDependencies": {
     "@yuzu/decoratify": "^0.3.0",
     "babel": "~5.6.14",
@@ -37,15 +54,6 @@
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.7.0",
     "@yuzu/yep-eslint-config": "^1.0.3"
-  },
-  "dependencies": {
-    "jquery": "^2.1.4",
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7",
-    "spak": "^0.22.0",
-    "spak-di": "^0.1.0",
-    "@yuzu/storage": "^3.0.0",
-    "storeit-value": ">=0.4.0"
   },
   "repository": {
     "type": "git",
