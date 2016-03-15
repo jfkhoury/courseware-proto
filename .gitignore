@@ -1,5 +1,12 @@
-node_modules
+/public/js/bundle.js
+/public/css/styles.css
+/public/css/images/*
 
-public/js/bundle.js
-public/css/styles.css
-public/css/images/*
+Thumbs.db
+.tmp
+.sass-cache
+.DS_Store
+.npm-*.log
+
+/node_modules/*
+!/node_modules/@app
