@@ -44,7 +44,8 @@
     "react-dom": "^0.14.7",
     "spak": "^0.22.0",
     "spak-di": "^0.1.0",
-    "@yuzu/storage": "^3.0.0"
+    "@yuzu/storage": "^3.0.0",
+    "storeit-value": ">=0.4.0"
   },
   "repository": {
     "type": "git",
