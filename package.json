@@ -25,7 +25,7 @@
     "spak": "^0.22.0",
     "spak-di": "^0.1.0",
     "storeit-value": ">=0.4.0",
-    "underscore": "^1.7.0",
+    "underscore": "^1.8.3",
     "underscore.string": "~2.3.3"
   },
   "devDependencies": {
@@ -51,7 +51,6 @@
     "phantomjs": "1.9.7-15",
     "sinon": "~1.7.3",
     "sinon-chai": "~2.4.0",
-    "underscore": "^1.8.3",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.7.0",
     "@yuzu/yep-eslint-config": "^1.0.3"
