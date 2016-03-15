@@ -20,6 +20,7 @@
     "ramda": "^0.19.1",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
+    "react-router": "^0.13.3",
     "setimmediate": "~1.0.1",
     "spak": "^0.22.0",
     "spak-di": "^0.1.0",
